@@ -1,0 +1,12 @@
+REFERENCIAS 
+
+PATTERSON, David A.; HENNESSY, John L. Organização e Projeto de
+Computadores: a interface hardware/software. 2a.ed. Rio de Janeiro: Campus,
+2005
+
+STALLINGS, William. Arquitetura e Organização de Computadores. 5a.ed. São
+Paulo: Prentice-Hall, 2002. ISBN: 85-87918-53-2
+
+http://www.ic.unicamp.br/~ducatte/mo401/1s2009/T2/036272-t2.pdf - VLIW
+
+Slides do prof. Júlio Carlos Balzano de Mattos
